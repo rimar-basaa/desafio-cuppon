@@ -1,0 +1,70 @@
+body {    
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(246, 248, 243);
+}
+
+.navbar {
+    background-color: #28A745;
+}
+
+.card img {
+    width: 98%;
+}
+
+.card-title {
+    font-size: 20px;
+    font-weight: 300;
+    color: #212529;
+}
+
+.card-text {
+    font-size: 16px;
+    font-weight: 300;
+    color: #707070;
+}
+
+.map {
+    font-size: 13px;
+    font-weight: 300;
+    color: #707070;
+}
+
+.map i {
+    font-size: 13px;    
+    color: #707070;
+}
+
+.list-group-item p {
+    font-size: 16px;
+    font-weight: 300;
+    color: #707070;
+}
+
+.list-group-item span {
+    font-size: 20px;
+    font-weight: 500;
+    color: #28A745;   
+}
+
+.form {
+    background-color: #28A745;
+}
+
+.form p {
+    font-size: 21px;
+    font-weight: 500;
+}
+
+.btn {
+    width: 80px;
+}
+
+.footer img {
+    width: 86px;
+}
+
+.footer p {
+    font-size: 16px;
+    font-weight: 300;
+    color: #707070;
+}
